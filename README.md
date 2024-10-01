@@ -1,5 +1,5 @@
 
-![Uploading githubbanner.png…]()
+![githubbanner](https://github.com/user-attachments/assets/ba32a211-aeaf-41a6-a78b-3df54aa2f738)
 
 
 <html> <h1> Hi, I’m @schatzsuche,\n I’m currently learning Java/Python/Aseprite. <h1/> </h1></html>
