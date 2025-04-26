@@ -8,7 +8,8 @@
  # planed / paused:
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=schatzsuche&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=schatzsuche&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  
  ![](https://visitcount.itsvg.in/api?id=schatzsuche&label=Views&color=12&icon=2&pretty=false)
