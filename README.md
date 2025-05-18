@@ -15,7 +15,7 @@
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schatzsuche&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schatzsuche&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
  
  ![](https://visitcount.itsvg.in/api?id=schatzsuche&label=Views&color=12&icon=2&pretty=false)
