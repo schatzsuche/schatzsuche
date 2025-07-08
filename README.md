@@ -3,7 +3,8 @@
 
 
 
-![372566439-ba32a211-aeaf-41a6-a78b-3df54aa2f738 (1) (0-00-00-00)](https://github.com/user-attachments/assets/af41fdff-ffa1-4849-92d5-5cd0cc68d641) <html> <h1> Hi, I’m <a href="https://linktr.ee/schatzsuche_"> schatzsuche </a>, I masterd After Effects and I’m currently learning programming.</h1></html>
+
+![wtest](https://github.com/user-attachments/assets/54e92080-2222-4be0-ae64-f9a3529540e6) <html> <h1> Hi, I’m <a href="https://linktr.ee/schatzsuche_"> schatzsuche </a>, I masterd After Effects and I’m currently learning programming.</h1></html>
  # I know:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
